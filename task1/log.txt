@@ -1,0 +1,11 @@
+commit 4b7433747a0c308fe93affead9b5d677b447a201 (HEAD -> master)
+Author: Andrey <andreybull.98@gmail.com>
+Date:   Mon Mar 19 18:34:12 2018 +0300
+
+    add task1
+
+commit d9d5cc5dfe40d82700d67a0ef7f25fef97f936e5
+Author: Andrey <andreybull.98@gmail.com>
+Date:   Mon Mar 19 18:05:05 2018 +0300
+
+    add .gitignore
